@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.3.1_73c8244639d5a01d6a40fa2f6aa30d1437a3575c.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-25.3.1_483064dda697a96beadac052e0d698fb4cae6828.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-11.0.0_7583ebce53c12c7159f4b45b8eceff6265a6decc.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="83a8acc623bae6f6edcee9c5edfd460b065a208e">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.github.clans-fab-1.6.2_45cfc8e5598378158be8ef5bed412706176587e1.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-design-25.3.1_de61ab5ac279e55b88c9d7c44c328de17120a98a.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="cf9754bfa8484f88f26e45d28fe298daa544d4f0">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.mcxiaoke.volley-library-aar-1.0.1_5a89abc083b29518661ce1c75402dc8eba695b51.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-11.0.0_e9a120000fb3378b4fd5572de1bd0d3b75c0d7ef.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.3.1_9c3fb7c622e2c95a7aa12f44ccc148022fb85270.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.3.1_ce0abb90a209fade77564ed6d8a9b54f893c4b17.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.3.1_3b35a3a6e718bcc3aef9150cfd8da55137141011.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="98c1221c29c1a146edc6be342039cc242f9773c5">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-11.0.0_a7e1bb8a3b8f177c45c68af35028e3c4816edf85.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.skyfishjy.ripplebackground/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.skyfishjy.ripplebackground-library-1.0.1_4968286b069e77392dca39b251b048ab5a6a5cba.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.3.1_e8534e7c3a2e70a4979b9d071664af10fa1310a9.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="2018b324dbe57d9a1304a0b6a97ece59de258da6">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-11.0.0_c7c705703d96811c5da169726544dbf306f24e4c.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.3.1_96fb8e12fb0fad0356979bb9fbb519563b8db308.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="700b670ed3f9cf4b240081993c6004817866985a">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-11.0.0_eb13f9a56cec6b53ef34a00c5910512b6652c4f6.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.3.1_5b7a84b33ae8fec222b093aca1677cc5baf83b93.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="2484ee9a66188155c9c792ff279d4a34c8e1d22e">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-11.0.0_193217d637ae064fea6cf13b7d6f49c9ef5271ac.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.3.1_6434e33fd57322bc423a49f4845e600913a023d4.jar" />
+    </item>
+    <item
+        jar="/home/faiz/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/glide-3.7.0_61154d68a0446d0bb7107022ede14aa30a89e0ea.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-11.0.0_722910db2ccc30f66b379479a9e598bc43e19bd9.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-11.0.0_aff58f362df7df801b85c3a8052d7e4786a52e16.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.3.1_0bb55b814521406d81e6dcdbd1d3fa86274a34c5.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.3.1_0f04c31e45b7857fd7dd2f56e0158406af64b777.jar" />
+    </item>
+    <item
+        jar="/home/faiz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_8a94fb8a414952f912f462cd9e7cce982f2c646b.jar" />
+    </item>
+    <item
+        jar="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/faiz/example-master/Example_StreamingAudio/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.3.1_09320f25e095600dd16a24537b6255cd281379fa.jar" />
+    </item>
+
+</items>

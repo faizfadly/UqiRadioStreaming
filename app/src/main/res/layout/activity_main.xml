@@ -1,0 +1,191 @@
+<com.skyfishjy.library.RippleBackground xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:id="@+id/content"
+    android:background="@drawable/bg_gradien"
+    app:rb_color="#0099cc"
+    app:rb_radius="32dp"
+    app:rb_rippleAmount="6"
+    app:rb_duration="5000"
+    app:rb_scale="6"
+    tools:context="id.fdev.example.uqifm.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:gravity="center"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:layout_gravity="left"
+            android:id="@+id/bluetoothState"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"
+            android:padding="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RADIO UQI-FM 107.1"
+            android:layout_gravity="center"
+            android:textSize="17dp"
+            android:id="@+id/toolbar_title" />
+
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:src="@drawable/radio"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/centerImage" />
+
+
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginBottom="86dp"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RADIO ISLAMI INFORMATIF DAN MENGHIBUR"
+            android:textSize="15dp"
+            android:fontFamily="cursive"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            android:paddingLeft="13dp"
+            android:textColor="#ededed"
+            android:id="@+id/txtwelcome"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="97dp"
+        android:orientation="vertical"
+        android:background="@color/colorPrimary"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="false"
+            android:layout_marginBottom="27dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/btnPlay"
+            android:text="@string/txt_play"
+            android:height="32dp"
+            android:background = "@drawable/roundedbutton"
+            android:drawableLeft="@drawable/ic_play_arrow_white_24dp"
+            android:padding="15dp"/>
+
+    </LinearLayout>
+
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/material_design_android_floating_action_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="128dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        fab:menu_animationDelayPerItem="55"
+        fab:menu_backgroundColor="@android:color/transparent"
+        fab:menu_buttonSpacing="0dp"
+        fab:menu_colorNormal="#2dbdf1"
+        fab:menu_colorPressed="#43ccfd"
+        fab:menu_colorRipple="#99d4d4d4"
+        fab:menu_fab_size="normal"
+        fab:menu_icon="@drawable/fab_add"
+        fab:menu_labels_colorNormal="#333"
+        fab:menu_labels_colorPressed="#444"
+        fab:menu_labels_colorRipple="#66efecec"
+        fab:menu_labels_cornerRadius="3dp"
+        fab:menu_labels_ellipsize="none"
+        fab:menu_labels_hideAnimation="@anim/fab_slide_out_to_right"
+        fab:menu_labels_margin="0dp"
+        fab:menu_labels_maxLines="-1"
+        fab:menu_labels_padding="8dp"
+        fab:menu_labels_position="left"
+        fab:menu_labels_showAnimation="@anim/fab_slide_in_from_right"
+        fab:menu_labels_showShadow="true"
+        fab:menu_labels_singleLine="false"
+        fab:menu_labels_textColor="#f2f1f1"
+        fab:menu_labels_textSize="15sp"
+        fab:menu_openDirection="up"
+        fab:menu_shadowColor="#bdbdbd"
+        fab:menu_shadowRadius="2dp"
+        fab:menu_shadowXOffset="2dp"
+        fab:menu_shadowYOffset="2dp"
+        fab:menu_showShadow="false">
+
+        <!--fab:menu_fab_label="Menu"-->
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/material_design_floating_action_menu_item2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_mic_white_24dp"
+            fab:fab_label="DJs"
+            fab:fab_size="mini"
+            fab:fab_colorNormal="#2dbdf1"
+            fab:fab_colorPressed="#43ccfd"
+            fab:fab_colorRipple="#21c1f0"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/material_design_floating_action_menu_item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_library_music_white_24dp"
+            fab:fab_label="Program"
+            fab:fab_size="mini"
+            fab:fab_colorNormal="#2dbdf1"
+            fab:fab_colorPressed="#43ccfd"
+            fab:fab_colorRipple="#21c1f0"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/material_design_floating_action_menu_item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_share_white_24dp"
+            fab:fab_label="Share"
+            fab:fab_size="mini"
+            fab:fab_colorNormal="#2dbdf1"
+            fab:fab_colorPressed="#43ccfd"
+            fab:fab_colorRipple="#21c1f0"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/material_design_floating_action_menu_item5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_fiber_new_white_24dp"
+            fab:fab_label="News/Article"
+            fab:fab_size="mini"
+            fab:fab_colorNormal="#2dbdf1"
+            fab:fab_colorPressed="#43ccfd"
+            fab:fab_colorRipple="#21c1f0"/>
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+</com.skyfishjy.library.RippleBackground>
